@@ -4,44 +4,48 @@
 
     "AdsController": [
       {
-        "NetworkAds": "admob",
+        "NetworkAds": "admob", 
         "AdMobId": "pub-9538560537207481",
 
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerAdmob": "ca-app-pub-9538560537207481/8954629395",
+        "InterstitialAdmob": "ca-app-pub-9538560537207481/2262703310",
+        "NativeAdmob": "ca-app-pub-9538560537207481/2389221042",
 
-        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-        "NativeFacebook": "173186393601951_356298065290782"
+        "BannerFacebook": "1893779434095196_1894187824054357",
+        "InterstitialFacebook": "1893779434095196_1894187227387750",
+        "NativeFacebook": "1893779434095196_1894186167387856"
 
       }
     ],
 
     "items": [
       {
-        "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg"
+        "title": "Fall guys: Intro",
+        "image": "https://raw.githubusercontent.com/youssefHairouch/title-1/master/list1.png"
       },
       {
-        "title": "The Old 2",
-        "image": "https://usercontent1.hubstatic.com/8037694.jpg"
+        "title": "Fall Guys tips",
+        "image": "https://raw.githubusercontent.com/youssefHairouch/title-2/master/list2.png"
       },
       {
-        "title": "Call of Cthulhu: Wasted Land ",
-        "image": "https://usercontent1.hubstatic.com/6961608.jpg"
+        "title": "Fall Guys patch notes ",
+        "image": "https://raw.githubusercontent.com/youssefHairouch/title-3/master/list3.png"
       },
       {
-        "title": "Dead Space Android",
-        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg"
+        "title": "Fall Guys Season 2",
+        "image": "https://raw.githubusercontent.com/youssefHairouch/title-4/master/list4.png"
       },
       {
-        "title": "Bloody Mary",
-        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg"
+        "title": "Fall Guys crossplay",
+        "image": "https://raw.githubusercontent.com/youssefHairouch/title-5/master/list5.png"
       },
       {
-        "title": "Twisted Lands: Shadow Town",
-        "image": "https://usercontent1.hubstatic.com/6961620.jpg"
+        "title": "How to dive in Fall Guys",
+        "image": "https://raw.githubusercontent.com/youssefHairouch/title-6/master/list6.png"
+      },
+      {
+        "title": "Fall Guys",
+        "image": "https://raw.githubusercontent.com/youssefHairouch/content-1-3/master/3.jpg"
       }
     ],
 
@@ -54,7 +58,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "Fall guys : Intro",
         "isNative": "false"
       },
       {
@@ -64,8 +68,8 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://usercontent1.hubstatic.com/8037694.jpg",
-        "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/title-1/master/list1.png",
+        "text": "offering Fall guys tips   ways to survive the latest online party game that has us hooked   might sound crazy. The game looks and feels like it works beyond reason, with an army of up to 60 multi-colored Fall guys running a race, jumping over each other and trying to steal each others tails.",
         "isNative": "true"
       },
       {
@@ -73,10 +77,90 @@
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
         "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/content-1-2/master/2.jpg",
+        "text": "But after a long week of grinding away at Fall guys (once the servers started working right), weve found some lessons to impart to help you win more Kudos and earn some more skins and colorways.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/content-1-3/master/3.jpg",
+        "text": "with all of the players spread across Ps4 and Pc, its possible that some of your friends will be battling it out on a different format. we look at the current situation with Fall guys crossplay and see what news there is about future developments with this feature.",
+        "isNative": "false"
+      }
+    ],
+    
+    
+    
+    
+    
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://usercontent1.hubstatic.com/6961608.jpg",
-        "text": "A touch-centric game, The Pact has gesture-based controls that allow gamers to use common finger gestures while operating a crossbow or a sword. The controls are easy to master and quite fun. The stunning visuals, provided by Unreal's Game Engine 3, are an unmatched visual feast.",
+        "image_link": "",
+        "text": "Fall guys patch notes",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/content-2-2/master/2.jpg",
+        "text": "as with all online launches these days, we can expect the game to continually evolve and incorporate new features to meet the needs of the growing player base. Keep an eye on the Fall guys patch notes for all the latest news on changes and additions being made.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/content-2-3/master/3.jpg",
+        "text": "The chaos of all of the Fall guys running through cramped corridors and across thin beams is not going to work for most people on their first run-throughs. once i stopped demanding perfection from my Fall guy, i started passing levels and advancing. To quote adventure time:  dude, sucking at something is the first step towards being sorta good at something.",
+        "isNative": "false"
+      }
+    ],
+    
+    
+    
+    
+   
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Fall Guys tips",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/title-3/master/list3.png",
+        "text": "There are 24 different rounds in total, and all of them have particular strategies that can increase your chances of winning, or at least surviving. We've gathered a set of Fall Guys tips to help get you through anything the game throws at you.",
         "isNative": "true"
       },
       {
@@ -84,10 +168,214 @@
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
         "left": "5",
-        "text_size": "25",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/content-3-2/master/content-2-2.jpg",
+        "text": "With over 2 million new players on PC alone, the initial days after release were marked by regular server outages and game disconnections. If you're getting error messages suggesting there are Fall Guys servers down, we've got the latest information on their status.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
         "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
-        "image_link": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
-        "text": "Dark Meadow is an exploration-based game and has some scary surprises in store. While exploring the haunted hospital, you will uncover several , puzzles, and weapons. You can use in-game money to buy items and equipment that will help you survive the goblin onslaught. With amazing visuals, deep storyline, and excellent gameplay, this survival horror game is here to give you the creeps.",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/content-3-3/master/content-2-3.jpg",
+        "text": "As with all online launches these days, we can expect the game to continually evolve and incorporate new features to meet the needs of the growing player base. Keep an eye on the Fall Guys patch notes for all the latest news on changes and additions being made",
+        "isNative": "false"
+      }
+    ],
+    
+    
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Fall Guys Season 2",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/title-4/master/list4.png",
+        "text": "It's still a way off, but there's already an in-game countdown to the end of the initial season, which means Fall Guys Season 2 is on the way at some point. We've got all the information on when we expect it to go live, and what fresh ideas could be introduced..",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/content-4-2/master/content-4-2.jpg",
+        "text": "With all of the players spread across PS4 and PC, it's possible that some of your friends will be battling it out on a different format. We look at the current situation with Fall Guys crossplay and see what news there is about future developments with this feature.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/content-4-3/master/content-4-3.jpg",
+        "text": "With the large selection of quirky mini-games on offer, this battle royale makes the perfect party game, and there's already the option to invite friends into your squad. If you're looking for Fall Guys split screen to get some couch co-op going, we've got the latest information.",
+        "isNative": "false"
+      }
+    ],
+    
+    
+    
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "How to dive in Fall Guys",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/title-5/master/list5.png",
+        "text": "You may have seen other players flinging themselves about the place, and wondered how to dive in Fall Guys. If that's the case then wonder no more, as we explain the controls and the benefits of leaping.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/content-5-2/master/content-5-2.jpg",
+        "text": "At the moment, all of this fun is exclusive to PS4 and PC players, but it might not be that way forever. With the growing popularity it's only natural that Mediatonic will be looking into Fall Guys Xbox One and Nintendo Switch versions, so it could just be a matter of time before those consoles get on board.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/content-5-3/master/content-5-3.jpg",
+        "text": "With the large selection of quirky mini-games on offer, this battle royale makes the perfect party game, and there's already the option to invite friends into your squad. If you're looking for Fall Guys split screen to get some couch co-op going, we've got the latest information.",
+        "isNative": "false"
+      }
+    ],
+    
+    
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Fall guys : Intro",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/title-6/master/list6.png",
+        "text": "offering Fall guys tips   ways to survive the latest online party game that has us hooked   might sound crazy. The game looks and feels like it works beyond reason, with an army of up to 60 multi-colored Fall guys running a race, jumping over each other and trying to steal each others tails.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/content-6-2/master/content-6-2.jpg",
+        "text": "But after a long week of grinding away at Fall guys (once the servers started working right), weve found some lessons to impart to help you win more Kudos and earn some more skins and colorways.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/content-1-3/master/3.jpg",
+        "text": "with all of the players spread across Ps4 and Pc, its possible that some of your friends will be battling it out on a different format. we look at the current situation with Fall guys crossplay and see what news there is about future developments with this feature.",
+        "isNative": "false"
+      }
+    ],
+    
+    
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Fall Guys ",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/title-3/master/list3.png",
+        "text": "There are 24 different rounds in total, and all of them have particular strategies that can increase your chances of winning, or at least surviving. We've gathered a set of Fall Guys tips to help get you through anything the game throws at you.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/content-3-2/master/content-2-2.jpg",
+        "text": "With over 2 million new players on PC alone, the initial days after release were marked by regular server outages and game disconnections. If you're getting error messages suggesting there are Fall Guys servers down, we've got the latest information on their status.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/content-3-3/master/content-2-3.jpg",
+        "text": "As with all online launches these days, we can expect the game to continually evolve and incorporate new features to meet the needs of the growing player base. Keep an eye on the Fall Guys patch notes for all the latest news on changes and additions being made",
         "isNative": "false"
       }
     ]
