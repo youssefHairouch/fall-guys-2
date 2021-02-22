@@ -7,9 +7,9 @@
         "NetworkAds": "facebook", 
         "AdMobId": "pub-9538560537207481",
 
-        "BannerAdmob": "ca-app-pub-9538560537207481/4150668235",
-        "InterstitialAdmob": "ca-app-pub-9538560537207481/4119427388",
-        "NativeAdmob": "ca-app-pub-9538560537207481/3927855699",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
         "BannerFacebook": "1542386415951772_1542387299285017",
         "InterstitialFacebook": "1542386415951772_1542387035951710",
@@ -20,31 +20,31 @@
 
     "items": [
       {
-        "title": "Fall guys: Intro",
+        "title": "Friday Night Funkin: Intro",
         "image": "https://raw.githubusercontent.com/youssefHairouch/list2/main/list2.png"
       },
       {
-        "title": "Fall Guys tips",
+        "title": "Boyfriend",
         "image": "https://raw.githubusercontent.com/youssefHairouch/List1/main/list1.png"
       },
       {
-        "title": "Fall Guys patch notes ",
+        "title": "Girlfriend ",
         "image": "https://raw.githubusercontent.com/youssefHairouch/list3/main/list3.png"
       },
       {
-        "title": "Fall Guys Season 2",
+        "title": "Daddy Dearest",
         "image": "https://raw.githubusercontent.com/youssefHairouch/list4/main/list4.png"
       },
       {
-        "title": "Fall Guys crossplay",
+        "title": "The mom",
         "image": "https://raw.githubusercontent.com/youssefHairouch/list5/main/list5.png"
       },
       {
-        "title": "How to dive in Fall Guys",
+        "title": "Rules",
         "image": "https://raw.githubusercontent.com/youssefHairouch/list6/main/list6.png"
       },
       {
-        "title": "Fall Guys",
+        "title": "Pico",
         "image": "https://raw.githubusercontent.com/youssefHairouch/list7/main/list7.png"
       }
     ],
